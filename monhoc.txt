@@ -1,0 +1,10 @@
+1-Cau truc du lieu
+2-Giai tich
+3-Ki thuat lap trinh
+4-Toan roi rac
+5-OOP
+6-Co so du lieu
+7-PBL
+8-TTHCM
+9-Vat ly
+10-Dai so tuyen tinh

@@ -1,0 +1,19 @@
+Ngay 8/12/2021 ca sang gom cac mon:
+1-CAU TRUC DU LIEU
+10-DAI SO TUYEN TINH
+Ngay 8/12/2021 ca chieu gom cac mon:
+2-GIAI TICH
+Ngay 9/12/2021 ca sang gom cac mon:
+3-KI THUAT LAP TRINH
+Ngay 9/12/2021 ca chieu gom cac mon:
+4-TOAN ROI RAC
+Ngay 10/12/2021 ca sang gom cac mon:
+5-OOP
+Ngay 10/12/2021 ca chieu gom cac mon:
+6-CO SO DU LIEU
+Ngay 11/12/2021 ca sang gom cac mon:
+7-PBL
+Ngay 11/12/2021 ca chieu gom cac mon:
+8-TTHCM
+Ngay 12/12/2021 ca sang gom cac mon:
+9-VAT LY

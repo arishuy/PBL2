@@ -1,0 +1,30 @@
+1001-Nguyen Van Quan-4-TTHCM,Cau truc du lieu,Giai tich,Vat ly
+1002-Pham Huynh Long-3-TTHCM,PBL,Giai tich
+1003-Nguyen Hung-4-Cau truc du lieu,Giai tich,OOP,TTHCM
+1004-Bui Phuoc Huy-5-Ki thuat lap trinh,Giai tich,OOP,PBL,Vat ly
+1005-Le Van A-4-Ki thuat lap trinh,Toan roi rac,PBL,TTHCM
+1006-Nguyen Van B-4-Ki thuat lap trinh,Toan roi rac,Giai tich,OOP
+1007-Tran Van C-5-Giai tich,Cau truc du lieu,TTHCM,Co so du lieu,Vat ly
+1008-Ngo Van D-5-Toan roi rac,Giai tich,OOP,Cau truc du lieu,Ki thuat lap trinh
+1009-Hoang Thi E-6-Toan roi rac,Giai tich,OOP,TTHCM,PBL,Dai so tuyen tinh
+1010-Ma Van G-5-Ki thuat lap trinh,Toan roi rac,Giai tich,Co so du lieu,Vat ly
+1011-Le Van Nhan-4-Toan roi rac,Co so du lieu,Giai tich,Vat ly
+1012-Hoang Thi Nga-6-OOP,Cau truc du lieu,Ki thuat lap trinh,TTHCM,PBL,Giai tich
+1013-Ngo Ba Kha-4-TTHCM,Dai so tuyen tinh,Ki thuat lap trinh,Co so du lieu
+1014-Bui Xuan Huan-7-Ki thuat lap trinh,Toan roi rac,PBL,TTHCM,Cau truc du lieu,Giai tich,Vat ly
+1015-Phan Van Nam-3-Toan roi rac,Giai tich,OOP
+1016-Nguyen Thi Minh-4-Ki thuat lap trinh,Giai tich,OOP,PBL
+1017-Dao Van Ba-4-Giai tich,OOP,TTHCM,PBL
+1018-Pham Ngoc Nhan-5-Cau truc du lieu,Ki thuat lap trinh,TTHCM,PBL,Giai tich
+1019-Do Van Khoi-4-Co so du lieu,Giai tich,Vat ly,Dai so tuyen tinh
+1020-Nguyen Ngoc Hai-3-OOP,PBL,Vat ly
+1021-Nguyen Ba Huy-4-Co so du lieu,Giai tich,Vat ly,TTHCM
+1022-Do Van Li-5-Co so du lieu,Ki thuat lap trinh,Giai tich,OOP,PBL
+1023-Van Vi Tu-6-Toan roi rac,Giai tich,OOP,TTHCM,PBL,Dai so tuyen tinh
+1024-Bui Ngoc Hieu-4-Ki thuat lap trinh,Toan roi rac,PBL,TTHCM
+1025-Tran Van Vinh-5-Giai tich,Cau truc du lieu,TTHCM,Co so du lieu,Vat ly
+1026-Ngo Ba Khoa-4-TTHCM,Dai so tuyen tinh,Ki thuat lap trinh,Co so du lieu
+1027-Le Gia Huy-5-Ki thuat lap trinh,Giai tich,OOP,PBL,Vat ly
+1028-Ma Van Uyen-5-Ki thuat lap trinh,Toan roi rac,Giai tich,Co so du lieu,Vat ly
+1029-Nguyen Manh Vu-4-TTHCM,Cau truc du lieu,Giai tich,Vat ly
+1030-Hoang Ngoc Tu-6-Toan roi rac,Giai tich,OOP,TTHCM,PBL,Dai so tuyen tinh
